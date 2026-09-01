@@ -60,12 +60,7 @@ I am a **Cybersecurity Specialist and Penetration Tester** from Pakistan, focuse
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ans-inayat&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
 <img src="https://streak-stats.demolab.com?user=ans-inayat&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ans-inayat&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ans-inayat&theme=darkhub&no-frame=true&row=1&column=6" alt="Trophies"/>
 
 </div>
 
